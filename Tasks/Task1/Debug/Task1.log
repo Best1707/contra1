@@ -1,0 +1,3 @@
+﻿  Task1.cpp
+C:\Users\Loli\projects\contra1\Tasks\Task1\Task1.cpp(7,17): warning C4101: k: неиспользованная локальная переменная
+  Task1.vcxproj -> C:\Users\Loli\projects\contra1\Tasks\Debug\Task1.exe
